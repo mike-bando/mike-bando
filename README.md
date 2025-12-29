@@ -1,4 +1,4 @@
-# Hi there, I'm [Twoje Imię]! 👋
+# Hi there, I'm Michal! 👋
 
 ## 📊 Data Analyst
 I am a results-driven Data Analyst focused on turning complex datasets into actionable business insights. I recently graduated from the **Data Analytics Bootcamp at Practima.io**, where I developed a strong foundation in data processing, visualization, and statistical analysis.
