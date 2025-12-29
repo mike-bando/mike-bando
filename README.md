@@ -10,13 +10,13 @@ I am a results-driven Data Analyst focused on turning complex datasets into acti
 * **Tools:** Jupyter Notebook, Git/GitHub, Excel
 
 ### 📁 Featured Project
-* **[Telco Customer Churn Analysis](https://github.com/mike-bando/Practima.io-Telco-Churn-Analysis/tree/main)** A comprehensive end-to-end analysis of customer retention. I used Python for data cleaning and EDA, and Tableau to create an interactive dashboard identifying key churn drivers.
+* **[Telco Customer Churn Analysis](https://github.com/mike-bando/Practima.io-Telco-Churn-Analysis/tree/main)** - A comprehensive end-to-end analysis of customer retention. I used Python for data cleaning and EDA, and Tableau to create an interactive dashboard identifying key churn drivers.
 
 ### 🎓 Verified Credentials
 * **Data Analytics Professional Certificate** – [View on Credsverse](https://credsverse.com/credentials/f23ec3d2-88bd-4e49-b654-a7d44ae332ce)
 
 ### 📫 Let's Connect!
-* **Email:** bando.michal@icloud.com
+* **Email** - bando.michal@icloud.com
 
 ---
 *"In God we trust, all others must bring data." – W. Edwards Deming*
