@@ -16,8 +16,8 @@ I am a results-driven Data Analyst focused on turning complex datasets into acti
 * **Data Analytics Professional Certificate** – [View on Credsverse](https://credsverse.com/credentials/f23ec3d2-88bd-4e49-b654-a7d44ae332ce)
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Link do Twojego profilu - jeśli jeszcze nie masz, możesz usunąć tę linię]
-* **Email:** [bando.michal@icloud.com]
+#* **LinkedIn:** [Link do Twojego profilu - jeśli jeszcze nie masz, możesz usunąć tę linię]
+#* **Email:** [bando.michal@icloud.com]
 
 ---
 *"In God we trust, all others must bring data." – W. Edwards Deming*
